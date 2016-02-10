@@ -1,4 +1,4 @@
-AwesomeScavengerHunt
+ScavengerGame
 =============================
 
 Repository for final project for ECE150 class at UCSB
