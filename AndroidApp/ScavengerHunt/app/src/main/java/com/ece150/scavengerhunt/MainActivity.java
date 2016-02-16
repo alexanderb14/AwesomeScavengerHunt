@@ -1,4 +1,4 @@
-package com.ece150.awesomescavengerhunt;
+package com.ece150.scavengerhunt;
 
 import android.app.Activity;
 import android.os.Bundle;
